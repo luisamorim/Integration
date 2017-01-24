@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Integration_Tests' do
+  pod 'Integration', :path => '../'
+  
+  
+end
